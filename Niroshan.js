@@ -87,7 +87,7 @@ async function connectToWA() {
     return;
   }
   const { loadCommands, handleCommand } = require("./src/utils/commandHandler");
-  const config = require("./src/config/settings.js");
+  const config = require("./src/config/settings.cjs");
   const getPrefix = () => config.PREFIX;
   const getWelcome = () => config.WELCOME;
   //===========================
