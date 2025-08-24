@@ -1,6 +1,6 @@
 {
   "name": "Niroshan_MD",
-  "version": "4",
+  "version": "1",
   "description": "A Simple WhatsApp bot created By NIROSHAN",
   "main": "Niroshan.js",
   "scripts": {
